@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">Следит только за экраном Instagram и закрывает вкладку Reels. Рилсы из личных сообщений разрешены. Ничего не читает и не отправляет.</string>
+</resources>
