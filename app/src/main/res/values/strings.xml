@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">Находит кнопку Reels в нижней панели Instagram и закрывает её заплаткой, чтобы на неё нельзя было нажать. Ничего не читает и не отправляет.</string>
+</resources>
